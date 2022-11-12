@@ -6,7 +6,7 @@
     flex-direction: row;
     display: flex;
     flex-wrap: wrap;
-    justify-self: start;
+    justify-self: space-between;
 }
 
 /* Your CSS Code here. */
