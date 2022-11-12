@@ -1,12 +1,12 @@
 
 .holder{
-    height: 10vw;
-    width: 10vw;
-    background-color: aqua;
-    flex-direction: row;
     display: flex;
     flex-wrap: wrap;
-    justify-self: space-between;
+    justify-content: space-between;
+}
+.d1{
+    height: 30px;
+    width: 40px;
 }
 
 /* Your CSS Code here. */
