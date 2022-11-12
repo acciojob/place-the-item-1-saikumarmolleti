@@ -1,5 +1,5 @@
 
-#d1{
+.holder{
     height: 10vw;
     width: 10vw;
     background-color: aqua;
@@ -7,57 +7,6 @@
     display: inline-block;
     flex-wrap: wrap;
     justify-self: start;
-}
-#d2{
-    height: 10vw;
-    width: 10vw;
-    background-color: bisque;
-    margin-left:block;
-    display: inline-block;
-    flex-wrap: wrap;
-}
-#d3{
-    height: 10vw;
-    width: 10vw;
-    background-color: ghostwhite;
-    display: inline-block;
-    flex-wrap: wrap;
-}
-#d4{
-    height: 10vw;
-    width: 10vw;
-    background-color: thistle;
-    display: inline-block;
-    flex-wrap: wrap;
-}
-#d5{
-    height: 10vw;
-    width: 10vw;
-    background-color: pink;
-    display: inline-block;
-    flex-wrap: wrap;
-}
-#d6{
-    height: 10vw;
-    width: 10vw;
-    background-color: lightblue;
-    display: inline-block;
-    flex-wrap: wrap;
-}
-#d7{
-    height: 10vw;
-    width: 10vw;
-    background-color: mediumseagreen;
-    display: inline-block;
-    flex-wrap: wrap;
-}
-#d8{
-    height: 10vw;
-    width: 10vw;
-    background-color: silver;
-    margin-left:block;
-    display: inline-block;
-    flex-wrap: wrap;
 }
 
 /* Your CSS Code here. */
