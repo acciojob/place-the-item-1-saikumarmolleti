@@ -3,8 +3,8 @@
     height: 10vw;
     width: 10vw;
     background-color: aqua;
-    margin-left:block;
-    display: inline-block;
+    flex-direction: row;
+    display: flex;
     flex-wrap: wrap;
     justify-self: start;
 }
